@@ -1,2 +1,2 @@
 # TA-Klasifikasi-Tingkat-Risiko-Stroke
-Analisis Algoritma Machine Learning dalam Klasifikasi Tingkat Risiko Stroke Menggunakan 
+ANALISIS ALGORITMA MACHINE LEARNING UNTUK KLASIFIKASI TINGKAT RISIKO PENYAKIT STROKE
